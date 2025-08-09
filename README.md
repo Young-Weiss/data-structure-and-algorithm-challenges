@@ -1,5 +1,3 @@
-# data-structure-and-algorithm-challenges
-
 # 🧩 Algorithm Solutions by Fernando
 
 Este repositório contém minhas soluções para problemas do [LeetCode](https://leetcode.com/).  
